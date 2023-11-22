@@ -16,10 +16,13 @@ Olá! 👋 Sou um entusiasta do desenvolvimento web com uma paixão por criar ex
 ### Projetos Destacados
 
 - **Projeto Bikcraft**
-  Nesse projeto foi ultilizado HTML semântico e CSS para a estilização. Visando atender diferentes dispositivos fiz o uso da Media query para criar breakpoints em diferentes tamanhos de tela.
+- Nesse projeto foi ultilizado HTML semântico e CSS para a estilização. Visando atender diferentes dispositivos fiz o uso da Media query para criar breakpoints em diferentes tamanhos de tela.
+- [Bikcraft](https://site-bikcraft-sooty.vercel.app/)
 
-- **Outro Projeto Importante**
-  Nesse projeto foi ultilizado HTML, Bootstrap e também o css para estilizar alguns pontos especificos, na pagina também temos um formulário que foi mascarado e validado com uso do jquery. Projeto responsivo para se adaptar a mobile, tablet e desktop.
+- **MotoCross ADVTR**
+- Nesse projeto foi ultilizado HTML, Bootstrap e também o css para estilizar alguns pontos especificos, na pagina também temos um formulário que foi mascarado e validado com uso do jquery. Projeto responsivo para se adaptar a mobile, tablet e desktop.
+- [Email](https://site-motocross.vercel.app/).
+
 
 
 
