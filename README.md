@@ -21,7 +21,7 @@ Olá! 👋 Sou um entusiasta do desenvolvimento web com uma paixão por criar ex
 
 - **MotoCross ADVTR**
 - Nesse projeto foi ultilizado HTML, Bootstrap e também o css para estilizar alguns pontos especificos, na pagina também temos um formulário que foi mascarado e validado com uso do jquery. Projeto responsivo para se adaptar a mobile, tablet e desktop.
-- [Email](https://site-motocross.vercel.app/).
+- [MotoCross ADVTR](https://site-motocross.vercel.app/).
 
 
 
