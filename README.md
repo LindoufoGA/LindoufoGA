@@ -1,17 +1,42 @@
-<main>
-  <div>
-    <h1>Giovanni Lindoufo</h1>
-    <h2>Desenvolvedor Front-End</h2>
-    <p>Localizado em São Paulo</p>
-  </div>
-</main>
+# Giovanni Lindoufo
 
-<section>
-  <h2>Experiência</h2>
+## Desenvolvedor Web | Especialista em Front-end
 
-  <div>
-    <p>Desenvolvo pequenos projetos ultilizando <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>. aplicando uma marcação semântica para facilitar a acessibilidade e atender às preferências do usuário. Foco na criação de layouts atrativos e responsivos. Meu objetivo é proporcionar uma ótima experiência, combinando design moderno com funcionalidades eficientes para garantir a satisfação do usuário.
-    </p>
+Olá! 👋 Sou um entusiasta do desenvolvimento web com uma paixão por criar experiências visuais envolventes e dinâmicas. Tenho experiência sólida em adaptar telas, replicar designs com precisão e criar dinamismo em projetos web. Minha abordagem inclui a aplicação de marcação semântica para melhorar a acessibilidade, atender às preferências do usuário e otimizar a leitura pelo Google.
+
+### Habilidades Técnicas
+
+- HTML
+- CSS
+- SASS
+- LESS
+- Node.js
+- JavaScript
+
+### Projetos Destacados
+
+- **Projeto Bikcraft**
+  Nesse projeto foi ultilizado HTML semântico e CSS para a estilização. Visando atender diferentes dispositivos fiz o uso da Media query para criar breakpoints em diferentes tamanhos de tela.
+
+- **Outro Projeto Importante**
+  Nesse projeto foi ultilizado HTML, Bootstrap e também o css para estilizar alguns pontos especificos, na pagina também temos um formulário que foi mascarado e validado com uso do jquery. Projeto responsivo para se adaptar a mobile, tablet e desktop.
+
+
+
+### Soft Skills
+
+- Comunicação Eficaz
+- Trabalho em Equipe
+- Resolução Criativa de Problemas
+- Adaptabilidade
+
+### Contato
+
+- [LinkedIn](https://www.linkedin.com/in/giovanni-lindoufo/)
+- [Portfolio](https://portifolio-novo.vercel.app/)
+- [Email](glindoufo1@gmail.com)
+
+Estou sempre aberto a novos desafios e colaborações interessantes. Vamos construir algo incrível juntos!
 
 <!--
 **LindoufoGA/LindoufoGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
