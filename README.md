@@ -15,7 +15,7 @@ Olá! 👋 Sou um entusiasta do desenvolvimento web com uma paixão por criar ex
 
 ### Projetos Destacados
 
-- **Projeto Bikcraft**
+- **Bikcraft**
 - Nesse projeto foi ultilizado HTML semântico e CSS para a estilização. Visando atender diferentes dispositivos fiz o uso da Media query para criar breakpoints em diferentes tamanhos de tela.
 - [Bikcraft](https://site-bikcraft-sooty.vercel.app/)
 
