@@ -1,6 +1,6 @@
 # Giovanni Lindoufo
 
-## Desenvolvedor Web | Especialista em Front-end
+## Desenvolvedor Web | Front-end
 
 Olá! 👋 Sou um entusiasta do desenvolvimento web com uma paixão por criar experiências visuais envolventes e dinâmicas. Tenho experiência sólida em adaptar telas, replicar designs com precisão e criar dinamismo em projetos web. Minha abordagem inclui a aplicação de marcação semântica para melhorar a acessibilidade, atender às preferências do usuário e otimizar a leitura pelo Google.
 
